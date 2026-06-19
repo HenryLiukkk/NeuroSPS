@@ -1,7 +1,7 @@
 # NeuroSPS: A Sensorimotor-Inspired Policy for Semantic, Proprioceptive, and Smooth Robotic Manipulation
 [[Project website](https://qianli-1118.github.io/NeuroSPS.github.io/)] 
 
-![](media/NeuroSPS.png)
+![](swr/media/NeuroSPS.png)
 
 
 ## 📰 News
