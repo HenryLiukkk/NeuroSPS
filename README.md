@@ -16,7 +16,7 @@ This repository also includes instantiations that integrate SWR with state-of-th
 1. Clone this repository
 ```bash
 git clone https://github.com/HenryLiukkk/NeuroSPS.git
-cd NeuroSPS
+cd NeuroSPS/swr
 ```
 
 2. Create a virtual environment
