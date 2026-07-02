@@ -5,7 +5,7 @@
 
 
 ## 📰 News
-* **[2026.06.19]** We have officially open-sourced the code for the SWR (Semantic Window Refiner) module!
+* **[2026.06.19]** We have officially open-sourced the code for the SWR (Semantic Window Refiner) Module!
 
 ## 🧩 SWR Module
 This module contains the implementation of the **Semantic Window Refiner (SWR)**: a plug-and-play module designed to select optimal waypoints from expert demonstrations, significantly enhancing the performance of behavioral cloning. Notably, it achieves a 100x+ speedup compared to the [AWE](https://lucys0.github.io/awe/)  method.
